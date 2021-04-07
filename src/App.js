@@ -1,9 +1,9 @@
-import UseNetwork from "./useNetwork";
+import UseScroll from "./useScroll";
 
 function App() {
   return (
     <div className="App">
-      <UseNetwork />
+      <UseScroll />
     </div>
   );
 }
