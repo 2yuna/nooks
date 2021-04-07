@@ -1,9 +1,9 @@
-import UseClick from "./useClick";
+import UseConfirm from "./useConfirm";
 
 function App() {
   return (
     <div className="App">
-      <UseClick />
+      <UseConfirm />
     </div>
   );
 }
