@@ -1,9 +1,9 @@
-import UseTabs from "./useTabs";
+import UseTitle from "./useTitle";
 
 function App() {
   return (
     <div className="App">
-      <UseTabs />
+      <UseTitle />
     </div>
   );
 }
