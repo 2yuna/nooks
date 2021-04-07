@@ -1,9 +1,9 @@
-import UseTitle from "./useTitle";
+import UseClick from "./useClick";
 
 function App() {
   return (
     <div className="App">
-      <UseTitle />
+      <UseClick />
     </div>
   );
 }
