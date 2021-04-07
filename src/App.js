@@ -1,9 +1,9 @@
-import UseBeforeLeave from "./useBeforeLeave";
+import UseNetwork from "./useNetwork";
 
 function App() {
   return (
     <div className="App">
-      <UseBeforeLeave />
+      <UseNetwork />
     </div>
   );
 }
