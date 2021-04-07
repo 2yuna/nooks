@@ -1,9 +1,9 @@
-import UseConfirm from "./useConfirm";
+import UsePreventLeave from "./usePreventLeave";
 
 function App() {
   return (
     <div className="App">
-      <UseConfirm />
+      <UsePreventLeave />
     </div>
   );
 }
